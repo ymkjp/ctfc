@@ -24,7 +24,7 @@ jq . > var/wc.json  0.03s user 0.00s system 8% cpu 0.374 total
 
 
 ## For replication
-0. Extract plain text data from the book like below
+1. Extract plain text data from the book like below
     - There's 258837 words in the text I used as you can see below
     - I put the data at `var/plain.txt` for reviewing
 
